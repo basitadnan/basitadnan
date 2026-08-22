@@ -9,7 +9,7 @@ I direct AI coding tools to ship fast, then focus my own time on architecture, p
 **[EntryHive](https://entryhive-pak.vercel.app)** — Live university entry test prep platform for Pakistani students (NUST NET, FAST, Air University, NAT). 600+ users, subscription-based, with a wallet-based referral system and spaced-repetition flashcards.
 `Next.js` `Supabase` `Vercel`
 
-**[CalorieIQ](https://calorieiq-pak.vercel.app)** — Android calorie tracking app with offline food database and AI-powered photo/text meal logging.
+**[Calobit](https://calorbit-pak.vercel.app)** — Android calorie tracking app with offline food database and AI-powered photo/text meal logging.
 `React` `Capacitor`
 
 **[SpendSense](https://spendsense-pak.vercel.app)** — Android expense tracker that auto-captures transaction notifications (Easypaisa) and logs them locally.
