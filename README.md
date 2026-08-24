@@ -66,8 +66,38 @@ Android expense tracker that auto-captures transaction notifications (Easypaisa)
 
 <div align="center">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=basitadnan&show_icons=true&hide_border=true&bg_color=0D1117&title_color=2D5D4E&icon_color=2D5D4E&text_color=C9D1D9" height="165" alt="GitHub stats"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=basitadnan&hide_border=true&background=0D1117&ring=2D5D4E&fire=2D5D4E&currStreakLabel=2D5D4E" height="165" alt="GitHub streak"/>
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**[EntryHive](https://github.com/basitadnan/entryhive)**
+Ed-tech platform · Next.js, Supabase
+`600+ users` `subscription`
+
+</td>
+<td width="50%" valign="top">
+
+**[Calobit](https://github.com/basitadnan/calobit)**
+Calorie tracker · React, Capacitor
+`v1.1.0` `offline-first`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[SpendSense](https://github.com/basitadnan/spendsense)**
+Expense tracker · Kotlin, Room
+`notification-based parsing`
+
+</td>
+<td width="50%" valign="top">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=basitadnan&hide_border=true&background=0D1117&ring=2D5D4E&fire=2D5D4E&currStreakLabel=2D5D4E" height="120" alt="GitHub streak"/>
+
+</td>
+</tr>
+</table>
 
 </div>
 
