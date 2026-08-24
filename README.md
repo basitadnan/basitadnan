@@ -1,29 +1,31 @@
 <div align="center">
 
-# basitadnan
+# Hi, I'm Abdul Basit 👋
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&size=20&pause=1200&color=2D5D4E&center=true&vCenter=true&width=480&lines=Full-stack+developer;Building+EntryHive+%2F+Calobit+%2F+SpendSense;Self-taught+%E2%80%94+AI-directed+workflow;Islamabad%2C+Pakistan)
 
 </div>
 
----
+Full-stack developer building products for the Pakistani market. Self-taught, currently starting a Business Data Analytics degree at COMSATS University.
 
-### /about
+I direct AI coding tools to ship fast, then focus my own time on architecture, product decisions, and sanity-checking output — not typing every line myself.
 
-Full-stack developer and entrepreneur based in Islamabad, Pakistan. I build and ship products for the Pakistani market — ed-tech, expense tracking, health tools — directing AI coding tools rather than hand-coding.
+## 🚀 What I've Built
 
-### /currently-building
+**[EntryHive](https://entryhive-pak.vercel.app)** — Live university entry test prep platform for Pakistani students (NUST NET, FAST, Air University, NAT). 600+ users, subscription-based, with a wallet-based referral system and spaced-repetition flashcards.
+`Next.js` `Supabase` `Vercel`
 
-- **EntryHive** — ed-tech platform for Pakistani university entry test prep (NUST NET, FAST, Air University, NAT)
-- **Calobit** — cross-platform calorie & macro tracker
-- **SpendSense** — Android expense tracker with automatic bank notification parsing
+**[Calobit](https://calobit.vercel.app)** — Android calorie tracking app with offline food database and AI-powered photo/text meal logging.
+`React` `Capacitor`
 
-### /stack
+**[SpendSense](https://spendsense-pak.vercel.app)** — Android expense tracker that auto-captures transaction notifications (Easypaisa) and logs them locally.
+`Kotlin` `Jetpack Compose` `Room`
 
-`Next.js` `Vite` `React` `Tailwind` `Supabase` `Kotlin` `Jetpack Compose`
+## 🛠️ Stack
 
----
+`TypeScript` · `Next.js` · `Supabase` · `Kotlin` · `Jetpack Compose` · `Vercel`
 
-<div align="center">
-<sub>this section can hold GitHub stats / contribution graph if you want it later</sub>
-</div>
+## 📫 Find me
+
+- Portfolio: [abdulbasit-tech.vercel.app](https://abdulbasit-tech.vercel.app)
+- Open to freelance work — building full-stack web apps and Android apps end to end.
