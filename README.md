@@ -66,7 +66,7 @@ Android expense tracker that auto-captures transaction notifications (Easypaisa)
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=basitadnan&show_icons=true&hide_border=true&bg_color=0D1117&title_color=2D5D4E&icon_color=2D5D4E&text_color=C9D1D9" height="165" alt="GitHub stats"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=basitadnan&show_icons=true&hide_border=true&bg_color=0D1117&title_color=2D5D4E&icon_color=2D5D4E&text_color=C9D1D9" height="165" alt="GitHub stats"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=basitadnan&hide_border=true&background=0D1117&ring=2D5D4E&fire=2D5D4E&currStreakLabel=2D5D4E" height="165" alt="GitHub streak"/>
 
 </div>
