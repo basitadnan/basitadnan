@@ -2,7 +2,7 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1B3A2E,100:2D5D4E&height=180&section=header&text=Abdul%20Basit&fontSize=42&fontColor=FFFFFF&fontAlignY=40&desc=Full-stack%20Developer%20%2F%2F%20Islamabad%2C%20Pakistan&descAlignY=62&descSize=16&animation=fadeIn)
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&size=18&pause=1200&color=2D5D4E&center=true&vCenter=true&width=520&lines=Building+EntryHive+%2F+Calobit+%2F+SpendSense;Self-taught+%E2%80%94+AI-directed+workflow;Starting+Business+Data+Analytics+%40+COMSATS)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&size=18&pause=1200&color=2D5D4E&center=true&vCenter=true&width=520&lines=Building+EntryHive+%2F+Calobit+%2F+Payvo;Self-taught+%E2%80%94+AI-directed+workflow;Starting+Business+Data+Analytics+%40+COMSATS)
 
 </div>
 
@@ -40,13 +40,34 @@ Android calorie tracking app with offline food database and AI-powered photo/tex
 </td>
 <td width="33%" valign="top">
 
-**[SpendSense](https://spendsense-pak.vercel.app)**
+**[Payvo](https://payvo-pak.vercel.app)**
 
 Android expense tracker that auto-captures transaction notifications (Easypaisa) and logs them locally.
 
 `Kotlin` `Jetpack Compose` `Room`
 
 </td>
+</tr>
+<tr>
+<td width="33%" valign="top">
+
+**[Kairo](https://kairo-steel.vercel.app)**
+
+University schedule app — manages timetable, assignments, deadlines, and tasks in one place.
+
+`Next.js` `Supabase`
+
+</td>
+<td width="33%" valign="top">
+
+**PayGate**
+
+Semi-automated Easypaisa payment verification microservice powering EntryHive and Calobit — replaces manual screenshot review.
+
+`Next.js` `Supabase`
+
+</td>
+<td width="33%" valign="top"></td>
 </tr>
 </table>
 
@@ -86,7 +107,7 @@ Calorie tracker · React, Capacitor
 <tr>
 <td width="50%" valign="top">
 
-**[SpendSense](https://github.com/basitadnan/spendsense)**
+**[Payvo](https://github.com/basitadnan/payvo)**
 Expense tracker · Kotlin, Room
 `notification-based parsing`
 
