@@ -23,27 +23,21 @@ I direct AI coding tools to ship fast, then focus my own time on architecture, p
 <td width="33%" valign="top">
 
 **[EntryHive](https://entryhive-pak.vercel.app)**
-
 Live university entry test prep platform for Pakistani students (NUST NET, FAST, Air University, NAT). 600+ users, subscription-based, with a wallet-based referral system and spaced-repetition flashcards.
-
 `Next.js` `Supabase` `Vercel`
 
 </td>
 <td width="33%" valign="top">
 
 **[Calobit](https://calobit.vercel.app)**
-
 Android calorie tracking app with offline food database and AI-powered photo/text meal logging.
-
 `React` `Capacitor`
 
 </td>
 <td width="33%" valign="top">
 
 **[Payvo](https://payvo-pak.vercel.app)**
-
 Android expense tracker that auto-captures transaction notifications (Easypaisa) and logs them locally.
-
 `Kotlin` `Jetpack Compose` `Room`
 
 </td>
@@ -52,22 +46,24 @@ Android expense tracker that auto-captures transaction notifications (Easypaisa)
 <td width="33%" valign="top">
 
 **[Kairo](https://kairo-steel.vercel.app)**
-
 University schedule app — manages timetable, assignments, deadlines, and tasks in one place.
-
 `Next.js` `Supabase`
 
 </td>
 <td width="33%" valign="top">
 
 **PayGate**
-
 Semi-automated Easypaisa payment verification microservice powering EntryHive and Calobit — replaces manual screenshot review.
-
 `Next.js` `Supabase`
 
 </td>
-<td width="33%" valign="top"></td>
+<td width="33%" valign="top">
+
+**Ledgerly**
+Local-only personal finance tracker with committee/ROSCA-cycle-aware income modeling and rule-based spend categorization.
+`Kotlin` `Jetpack Compose` `Room`
+
+</td>
 </tr>
 </table>
 
@@ -86,7 +82,6 @@ Semi-automated Easypaisa payment verification microservice powering EntryHive an
 ### ~/stats
 
 <div align="center">
-
 <table>
 <tr>
 <td width="50%" valign="top">
@@ -113,13 +108,10 @@ Expense tracker · Kotlin, Room
 
 </td>
 <td width="50%" valign="top">
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=basitadnan&hide_border=true&background=0D1117&ring=2D5D4E&fire=2D5D4E&currStreakLabel=2D5D4E" height="120" alt="GitHub streak"/>
-
 </td>
 </tr>
 </table>
-
 </div>
 
 <br>
