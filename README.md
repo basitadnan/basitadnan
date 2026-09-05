@@ -12,7 +12,7 @@
 
 Full-stack developer building products for the Pakistani market. Self-taught, currently starting a Business Data Analytics degree at COMSATS University.
 
-I direct AI coding tools to ship fast, then focus my own time on architecture, product decisions, and sanity-checking output — not typing every line myself
+I direct AI coding tools to ship fast, then focus my own time on architecture, product decisions, and sanity-checking output — not typing every line myself.
 
 <br>
 
